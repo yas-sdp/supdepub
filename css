@@ -1,0 +1,101 @@
+body{
+  font-family: roboto;
+}
+
+
+input{
+width: 350px;
+line-height: 20px;
+padding: 10px 10px;
+BORDER:0px;
+}
+
+#tout{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+.element 1{
+  display: flex;
+  justify-content: center;
+}
+}
+
+#haut{
+  margin: auto;
+  padding: auto;
+}
+
+
+#recherche{
+  border: 1px solid #444;
+  font-size: 16px;
+  color: grey;
+  border-radius: 50px;
+
+  width: 500px;
+  margin: auto;
+  padding: auto;
+  border-color: grey;
+  font-weight: 200px;
+
+}
+
+
+
+#bas{
+  font-size: 12px;
+  color: black;
+}
+
+
+
+
+
+footer ul li {
+display: inline;
+color: #666666;
+font-size: 14px;
+padding: 13px;
+}
+
+footer ul {
+float: left;
+padding: 1px;
+}
+
+footer ul a:hover {
+text-decoration: underline;
+}
+
+.footer-right {
+float: right;
+}
+
+
+
+
+}
+
+footer {
+ bottom: 0;
+}
+
+footer ul {
+ float: none;
+ padding-bottom: 2px;
+
+}
+
+.footer-left {
+ text-align: center;
+ margin: auto;
+ padding-top: 10px;
+
+}
+
+.footer-right {
+ float: none;
+ text-align: center;
+
+}
