@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+
+  <head>
+    <title>Réplique GOOGLE</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" text/css href="css/style_google.css">
+  </head>
+
+
+
+
+
+
+  <body>
+
+
+<div id="tout">
+
+
+    <div id="haut">
+
+      <div class="element 1">
+
+          <img src="img/google.png" width= 20% height= 20% top: 20>
+      </div>
+
+    </div>
+
+
+
+    <div id="recherche">
+
+
+          <img src="img/loupe.png" width= 1% height= 1%>
+          <input type="text" id="form-search" placeholder="Effectuez une recherche sur google ou saisissez une URL">
+          <img src="img/micro.png" width= 1% height= 1%>
+
+      </div>
+
+      <div class= "buttons">
+        <input type="submit" value="Recherche Google" id="google_search">
+        <input type="submit" value="J'ai de la chance" id="im_feeling_lucky">
+      </div>
+
+
+      <div id="bas">
+
+        <div class="element 3">
+          <img src="img/plus.png" width= 4% height= 4%>
+        </div>
+
+        <div class="element 4">Ajouter un racourci</div>
+
+      </div>
+
+
+</div>
+
+
+<footer>
+    <ul class="footer-left">
+      <li><a href="#">A propos</a></li>
+    </ul>
+
+    <ul class="footer-right">
+      <li><a href="#">Confidentialité</a></li>
+      <li><a href="#">Paramètres</a></li>
+    </ul>
+</footer>
+
+
+
+  </body>
+
+</html>
